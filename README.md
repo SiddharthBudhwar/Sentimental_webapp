@@ -36,5 +36,7 @@ negative sentiment : (compound score <= -0.05)
 Based on the compoud score of the input text, the senitiment of the sentence / word is returned as output. 
 
 ## Output Screenshot
-https://github.com/SiddharthBudhwar/Sentimental_webapp/issues/1#issue-1040263154
+![op](https://user-images.githubusercontent.com/74424623/139553648-c4b556b9-8c28-469b-ba96-b3aa25ceebc4.png)
+![op2](https://user-images.githubusercontent.com/74424623/139553649-23cc02d3-c339-49c0-a49c-7dd03833b119.png)
+![op3](https://user-images.githubusercontent.com/74424623/139553650-c8fb24d9-b811-4f37-84e1-d581dcd6709a.png)
 
