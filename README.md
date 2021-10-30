@@ -36,5 +36,5 @@ negative sentiment : (compound score <= -0.05)
 Based on the compoud score of the input text, the senitiment of the sentence / word is returned as output. 
 
 ## Output Screenshot
-![Alt text](Sentimental_webapp/op.png?raw=true "op")
+![Alt text](Sentimental_webapp/op.png?raw=true "op.png")
 
